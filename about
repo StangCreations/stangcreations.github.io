@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Title</title>
+    </head>
+    <style>
+        .center{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            padding: 150px;
+        }
+    </style>
+    <body>
+
+    <h1>About</h1>
+    <p>Blah blah blah.</p>
+    
+    </body>
+</html>
